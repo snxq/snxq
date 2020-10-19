@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a Software Engineering at @Tencent.
+
+### My GitHub Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snxq)
+### My GitHub stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=snxq&show_icons=true)
+
 <!--
 **snxq/snxq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
