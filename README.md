@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineering.
+I'm a Software Engineer.
 
 ### My GitHub Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snxq)
